@@ -1,2 +1,0 @@
-# Mumbaigit
-just for fun
